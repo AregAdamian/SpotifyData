@@ -1,7 +1,7 @@
 # Spotify Sales and User Analysis
 Portfolio project analytics Spotify sales and user trends from 2017-2023. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/areg.adamian/viz/SpotifySalesData/Dashboard4).
 
-![Screenshot of dashboard](https://github.com/AregAdamian/SpotifyData/blob/main/Main%20Dashboard.png)
+![Screenshot of dashboard](https://github.com/AregAdamian/SpotifyData/blob/main/Main%20Dashboard_New.png)
 
 ## Summary of Insights
 ### Cost Type
